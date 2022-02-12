@@ -3,3 +3,16 @@
 ################################################################################
 
 /EnergyMeter/.vs/EnergyMeter/v16
+/EnergyMeter/Energy.Business/obj/Debug
+/EnergyMeter/Energy.Business/bin/Debug
+/EnergyMeter/Energy.ConsoleApp/obj/Debug
+/EnergyMeter/Energy.ConsoleApp/bin/Debug
+/EnergyMeter/Energy.Data/obj/Debug
+/EnergyMeter/Energy.Data/bin/Debug
+/EnergyMeter/Energy.Infrastructure.DI/obj/Debug
+/EnergyMeter/Energy.Infrastructure.DI/bin/Debug
+/EnergyMeter/Energy.Service/obj/Debug
+/EnergyMeter/Energy.Service/bin/Debug
+/EnergyMeter/Energy.Test/obj/Debug
+/EnergyMeter/Energy.Test/bin/Debug
+/EnergyMeter/packages
